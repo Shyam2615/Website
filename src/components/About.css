@@ -1,12 +1,13 @@
-*{
+.about{
     font-family: "Raleway", sans-serif;
     font-optical-sizing: auto;
     font-weight: auto;
     font-style: normal;
+    background-color: black;
 }
 .btn{
     background-color: #ff6347;
-    color: yellow;
+    color: white;
     border-radius: 2%;
     border-color: black;
     border-width: 2px;
@@ -33,10 +34,10 @@ h2{
     flex: 1;
     width: 600px;
     margin: 0 20px;
+    color: white;
 }
 .pic{
     flex: 1;
-    width: ;
     margin-left: 20px;
 }
 img{
