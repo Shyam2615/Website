@@ -1,0 +1,27 @@
+.caro-img{
+    height: 32rem;
+    width: 70%;
+    filter: brightness(0.5);
+}
+
+.caro{
+    display: flex;
+    justify-content: center;
+}
+
+.works .heading{
+    margin-bottom: 20px;
+}
+.caro-btn{
+    animation: none;
+}
+
+.caro-text{
+    filter: brightness(200);
+}
+
+@media (max-width:900px) {
+    .caro-img{
+        width: 100%;
+    }
+}
